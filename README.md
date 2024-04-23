@@ -10,4 +10,4 @@ The topics I am interested in and will be exploring on this blog include fire ri
 
 Along the folder in this repository you will find the code used in the different blog posts. 
 
-🌎 [Link to blog](https://codeforenviro.wordpress.com/)
+🌎 [Link to codeforenviro](https://codeforenviro.wordpress.com/)
