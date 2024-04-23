@@ -9,3 +9,5 @@ The topics I am interested in and will be exploring on this blog include fire ri
 ## About the repository
 
 Along the folder in this repository you will find the code used in the different blog posts. 
+
+🌎 [Link to blog](https://codeforenviro.wordpress.com/)
