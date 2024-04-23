@@ -1,4 +1,4 @@
-# Codeforenviro projects Code GitHub Page
+# Codeforenviro code GitHub repository
 
 ## About the project
 
